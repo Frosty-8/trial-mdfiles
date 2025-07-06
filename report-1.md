@@ -7,4 +7,4 @@ layout: default
 
 This is the content of **Report 1**.
 
-[Next Report →](report-2.md) | [Back to Home](index.md)
+[Next →](report-2.md) | [Home](index.md)
